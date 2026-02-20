@@ -1,0 +1,379 @@
+Create a fully private romantic website using only HTML, CSS, and minimal JavaScript. No frameworks. No external libraries. Keep it lightweight and optimized for Replit free plan. Fully mobile responsive.
+
+This website is strictly for two lovers only.
+
+GLOBAL ENTRY LOCK (MAIN PASSWORD)
+
+When the website loads:
+
+• Show full-screen dark romantic background
+• Soft floating golden particles
+• Low volume looping heartbeat audio (file name: heartbeat.mp3 – will be uploaded manually)
+• Center glassmorphism password box
+
+Display message:
+"This world belongs only to us ❤️"
+
+Password required:
+22/2k06/11
+
+If wrong password:
+Show red glow shake animation
+Display:
+"Wrong password… This world belongs to us only ❤️"
+
+If correct:
+Smooth fade transition into homepage.
+
+HOMEPAGE DESIGN
+
+Theme:
+Pink + Gold romantic gradient background
+Soft floating hearts (CSS animation only)
+Glass effect buttons
+Smooth fade and slide transitions
+
+Title:
+"My World With Hemu"
+
+Below title, show 7 beautiful glass buttons:
+
+Heartbeat
+
+Eyes
+
+Multi Universe
+
+22 Heartbeat Poems
+
+Love Needs No Date
+
+Our Memory Video
+
+Birthday Secret
+
+Each opens full screen section with smooth transition.
+
+SECTION 1 – HEARTBEAT
+
+When opened:
+
+• heartbeat.mp3 plays in loop (low volume)
+• Background pulse animation synced visually
+• On every screen tap (mobile), slight vibration effect
+• Text fade in:
+
+"Your heartbeat is my rhythm.
+When it beats, my world moves."
+
+Romantic glowing atmosphere.
+
+SECTION 2 – EYES
+
+Dark background with soft spotlight glow effect.
+
+Artistic slow zoom animation (CSS only).
+
+Poetic lines fade in one by one:
+
+"Your eyes are not just eyes.
+They are the place where my universe rests.
+When you look at me,
+I forget the world.
+There is fire in your glance,
+But it burns softly inside my heart."
+
+Deep romantic mood. No explicit content.
+
+SECTION 3 – MULTI UNIVERSE
+
+Animated star background (CSS only, no canvas libraries).
+
+Silhouette style couple in center.
+
+Floating galaxy glow.
+
+Main text:
+
+"In every universe,
+In every lifetime,
+In every version of me,
+I choose you."
+
+Soft slow floating animation.
+
+SECTION 4 – 22 HEARTBEAT POEMS
+
+Display as romantic scrollable book style layout.
+
+Each poem: Un peyar sollum pothu
+En idhayam adhigama thudikkudhu
+Adhu bayam illa
+Unai paarka aasai nala
+Un peyar dhaan en suvaasam
+Un peyar dhaan en rhythm
+
+Un kannu paatha odane
+Ulagam blur aagudhu
+Nee mattum focus
+Andha paarvai la oru heat irukku
+Adhu en manasai thodudhu
+Silent ah kaadhal solludhu
+
+Nee sirikkum pothu
+En aasai ezhundhidu
+Un lips la varra curve
+En nenjathai melt pannudhu
+Adhu sirippu illa
+Adhu invitation
+
+Un kural ketta
+En heartbeat speed aagudhu
+Adhu music illa
+Adhu en life tone
+Un vaarthai ovvondrum
+En jeevanai thodudhu
+
+Un pakkathula nikkumbodhu
+Distance romba perusa thonudhu
+Nerukkam varumbodhu
+Udal muzhuvadhum heat
+Aana un comfort dhaan
+En priority
+
+Un nadai la confidence
+En manasa attract pannudhu
+Nee nadakkura pothu
+Time slow aagudhu
+Un shadow kooda
+En kooda vara aasai
+
+Un hair wind la aadumbodhu
+Adhu cinema scene maari
+Aana enakku adhu real
+Un azhagu natural ah irundhaal
+Adhu dhaan dangerous
+En kaadhal strong aagudhu
+
+Un kai thodumbodhu
+Current maari irukkum
+En moolai la flash
+Un sparisam neruppu
+Sudama sugam
+Adhu dhaan un magic
+
+Un mugam oru nila
+En iravu velicham
+Un azhagu oru season
+Permanent ah en vazhkaila
+Nee irundhaal podhum
+Enakku vera onnum thevai illa
+
+Un lips pesumbodhu
+Kelvi kekka marandhiduven
+Un vaarthai softness
+En aasaiyai valarthudhu
+Adhu paadal maari
+En nenju la repeat
+
+Un nerukkam varumbodhu
+En heartbeat race
+Adhu bayam illa
+Unai pidikkum aasai
+Un pakkam vara neram
+Golden moment
+
+Un sirippu en stress dissolve
+Un presence en peace
+Un paarvai en weakness
+Un azhagu en inspiration
+Un anbu en power
+Un dhaan en world
+
+Un kannu la oru fire
+Aana adhu sudama
+Heat tharudhu
+Adhu en manasa ignite
+Un paarvai la
+En vazhkai meaning
+
+Un pakkam vara aasai
+Daily adhigam
+Un kooda pesanum
+Un kooda sirikanum
+Un kooda vazhanum
+Idhu dhaan en dream
+
+Un azhagu temptation illa
+Adhu inspiration
+Un udal sirpam
+Un manasu deivam
+Un dignity dhaan
+En kaadhal reason
+
+Un suvaasai thodumbodhu
+Amaidhi varudhu
+Adhe nerathula heat
+Love um desire um
+Balance ah un kitta
+Adhu dhaan en luck
+
+Un mugam paatha
+Automatic smile
+Un presence comfort
+Un azhagu magnet
+En manasu steel illa
+Adhu melt aagudhu
+
+Un kai pidikka aasai
+Childish ah irukkum
+Aana adhu dhaan real
+Un nerukkam la dhaan
+En manasu settle
+Adhu dhaan happiness
+
+Un azhagu en thudippu
+Un manasu en vazhkai
+Un pakkathula naan
+Complete ah feel
+Un kooda dhaan
+Forever
+
+Un sirippu neruppu
+Sugam tharudhu
+Un paarvai sparisam
+Oliyaagudhu
+Un azhagu
+Addiction
+
+Un kooda irukka neram
+Slow motion
+Un anbu permanent
+Un azhagu magic
+Un kaadhal
+En destiny
+
+Hemu…
+Un azhagu en idhayam
+Un suvaasai en rhythm
+Un pakkathula naan
+Lifetime iruppen
+Unakkaga
+Namakkaaga
+
+• Minimum 6 lines
+• Fade-in on scroll
+• After each poem, subtle pulse animation
+
+Include exactly these 22 poems:
+
+[All 22 poems exactly as previously written — same content from earlier message — include fully here in output generation]
+
+(Keep formatting clean, poetic, spaced properly.)
+
+SECTION 5 – LOVE NEEDS NO DATE
+
+Background: Floating calendar pages animation (CSS only)
+
+Display emotional story:
+
+"February had Rose Day.
+Propose Day.
+Hug Day.
+Kiss Day.
+
+I did not celebrate them.
+
+But that does not mean
+I do not love you.
+
+The day I see you smile
+Is my Rose Day.
+
+The moment you stand near me
+Is my Hug Day.
+
+When your eyes meet mine
+That is my Kiss Day.
+
+Love is not one day.
+It is every heartbeat.
+
+My love is not for a date.
+It is forever."
+
+Final line glows softly.
+
+SECTION 6 – OUR MEMORY VIDEO
+
+When this page opens:
+
+• 1 second black screen
+• Fade in
+• Autoplay video (file name: memory.mp4 – will be uploaded manually)
+• Muted autoplay
+• Full screen
+• object-fit: cover
+• No controls visible
+
+Bottom glowing text:
+
+"This is our forever."
+
+SECTION 7 – BIRTHDAY SECRET
+
+This section must be locked until March 11.
+
+Before March 11:
+
+Show countdown timer:
+Days / Hours / Minutes / Seconds
+
+Display message:
+"Wait for her day… Something special is hidden."
+
+On March 11:
+
+Countdown disappears.
+Show password input.
+
+Birthday unlock password:
+03.01.2024
+
+If wrong:
+Soft red glow animation.
+
+If correct:
+Open animated book style interface.
+
+Book must have page flip animation (CSS only).
+
+Inside golden glowing serif text display:
+
+"HAPPY BIRTHDAY HEMU
+NAAN UNNA VITU POGA MAATEN
+EPPAVUM UN KOODAVE IRUPPEN
+UNAKKAGA
+NAMAKKAGA
+NAMMA ETHIRKAALATHUKKAGA"
+
+Soft sparkle effect.
+Romantic golden glow.
+
+Add button to return to homepage.
+
+TECHNICAL REQUIREMENTS
+
+• Use only HTML, CSS, and minimal JS
+• No frameworks
+• No external animation libraries
+• Mobile responsive
+• Smooth transitions
+• Lightweight optimized code
+• Audio and video files manually uploaded
+• Clean structured code
+• All sections in single page with hidden/visible switching
+
+End with smooth fade transitions.
+
+END OF WEBSITE.
